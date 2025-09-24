@@ -122,7 +122,11 @@ The Colab notebook includes:
 -   Mediapipe  
 -   Scikit-learn  
 -   Joblib  
--   NumPy  
+-   NumPy
+-   scikit-learn
+-   pydantic
+
+# Dockerfile for Head Pose Estimation API
 
 Install everything with:
 
