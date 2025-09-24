@@ -2,6 +2,9 @@ fastapi
 uvicorn
 opencv-python
 mediapipe
-scikit-learn
 joblib
 numpy
+scikit-learn
+pydantic
+
+# Dockerfile for Head Pose Estimation API
